@@ -12,7 +12,7 @@
     * Node.js 10.0.0 `.js`
     * Python 2.7.12 `.py`
     * Python 3.5.2 `.py`
-    * Python 3.6.5 `.py` numpy, scipy, TensorFlow (CPU), theano, pytorch 1.4.0, mxnet 0.12.0, keras 2.1.6, lasagne, scikit-image, h5py
+    * Python 3.6.5 `.py` numpy, scipy, TensorFlow 1.14 (CPU), theano, pytorch 1.4.0, mxnet 0.12.0, keras 2.1.6, lasagne, scikit-image, h5py
     * C# (Mono 5.0.0) `.cs` Newtonsoft.Json
     * Free Pascal 3.0.0 `.pas`
 
